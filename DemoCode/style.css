@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#themeSelector {
+  margin-bottom: 20px;
+}
+
+button,
+h1 {
+  margin: 5px;
+  padding: 200px;
+  cursor: pointer;
+}
+
+#output {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+#lightThemeBtn {
+  background-color: #f4f4f4;
+}
+
+#darkThemeBtn {
+  background-color: #333;
+  color: #fff;
+}
